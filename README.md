@@ -1,4 +1,4 @@
-# MediPredict - Disease Prediction Using Machine Learning
+# MediInsight - Disease Prediction Using Machine Learning
 
 A machine learning model for predicting diseases based on user-input symptoms. This project leverages classification algorithms to provide accurate disease predictions using a dataset of symptoms and corresponding diagnoses.
 
@@ -39,7 +39,7 @@ pip install pandas numpy scikit-learn matplotlib
 
 ### Clone the Repository
 bash
-git clone https://github.com/your-username/MediPredict.git
+git clone https://github.com/your-username/MediInsight.git
 cd MediPredict
 
 
